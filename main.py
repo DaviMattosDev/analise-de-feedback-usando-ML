@@ -58,7 +58,8 @@ acuracia = accuracy_score(y_test, y_pred)
 print(f"Acurácia: {acuracia:.2f}")
 
 # Salvar o modelo e o TfidfVectorizer
-#joblib.dump(pipeline, 'modelo_sentimento.pkl')
+#joblib.dump(pipeline, 'modelo_feedback.pkl')
+#joblib.dump(pipeline, 'tfidf_vectorizer.pkl')
 
 # Função para verificação da frase
 def tratar_negacao(frase):
