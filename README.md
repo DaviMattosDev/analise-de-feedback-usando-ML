@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido com o objetivo de estudar e aplicar técnicas de Machine Learning para análise de feedbacks. Ele processa dados de feedbacks e realiza uma análise para identificar padrões e tendências, com o intuito de melhorar a compreensão sobre a satisfação do usuário.
